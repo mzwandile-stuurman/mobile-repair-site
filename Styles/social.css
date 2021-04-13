@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#social {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10%;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.Social-contact {
+  display: flex;
+}
+
+.Social-contact p {
+  margin-right: 20px;
+}
